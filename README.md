@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sergei, an <a href="https://linkedin.com/in/sergzdr">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sergei, an <a href="https://linkedin.com/in/sergei-zdrale">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/abdul_azeez1444
 [instagram]: https://www.instagram.com/abdul.azeez1444
-[linkedin]: https://linkedin.com/in/sergzdr
+[linkedin]: https://linkedin.com/in/sergei-zdrale
