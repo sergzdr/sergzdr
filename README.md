@@ -1,4 +1,4 @@
-<h1>السلام عليكم, أنا اسمي عبد العزير <a href="https://linkedin.com/in/sergei-zdrale">IT Professional</a>☺</h1>
+<h1>السلام عليكم, أنا اسمي عبد العزيز <a href="https://linkedin.com/in/sergei-zdrale">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
